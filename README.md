@@ -2,9 +2,10 @@
 
 ## packages
 
-reflector
-yay
-gnome (enable gdm)
+reflector  
+yay  
+gnome (enable gdm)  
+gnome-browser-connector
 mesa  
 fprint  
 switcheroo-control (enable)  
